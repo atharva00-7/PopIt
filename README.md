@@ -9,7 +9,7 @@ You can play the game live here: [Pop It Six](https://pop-it-six.vercel.app/)
 ## Features
 
 - **Interactive Gameplay**: Enjoy a smooth and interactive game experience.
-- **Responsive Design**: Beautifully styled using Tailwind CSS to ensure the game looks great on all devices.
+- **Tailwind CSS**: Beautifully styled using Tailwind CSS to ensure the game looks great.
 - **ReactJS**: Leveraging ReactJS for a fast and responsive user interface.
 
 ## Installation
